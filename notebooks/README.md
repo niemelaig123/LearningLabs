@@ -4,13 +4,13 @@
 
 Interactive Jupyter notebooks for learning and demonstrating concepts through code, visualizations, and detailed explanations.
 
-## 📚 Overview
+## Overview
 
-This directory is organized to contain educational notebooks by subject area. Each notebook aims to be self-contained, providing both theoretical background and practical implementations.
+This directory is organized to contain educational notebooks by subject area. Each notebook aims to be self-contained, providing both theoretical background and practical implementations. This is also serving as a sort of "cheat sheet" for me when I'm working in this repo
 
-## 📂 Topics
+## Topics
 
-### 📊 [data_science/](data_science/)
+### [data_science/](data_science/)
 Practical data science techniques and workflows:
 - **analysis/**: Exploratory data analysis (EDA) techniques and patterns
 - **feature_engineering/**: Feature creation, transformation, and selection methods
@@ -18,7 +18,7 @@ Practical data science techniques and workflows:
 - **statistics/**: Statistical methods and hypothesis testing
 - **visualization/**: Data visualization techniques using matplotlib, seaborn, plotly, etc.
 
-### 🔢 [math/](math/)
+### [math/](math/)
 Mathematical foundations for computer science and machine learning:
 - **calculus/**: Derivatives, integrals, and applications
 - **linear_algebra/**: Vectors, matrices, eigenvalues, and transformations
@@ -26,14 +26,14 @@ Mathematical foundations for computer science and machine learning:
 - **optimization/**: Optimization algorithms and techniques
 - **probability/**: Probability theory, distributions, and statistical inference
 
-### 🤖 [ml/](ml/)
+### [ml/](ml/)
 Machine learning concepts from basics to advanced topics:
 - **deep_learning/**: Neural networks, CNNs, RNNs, transformers, and advanced architectures
 - **fundamentals/**: Core ML concepts, algorithms, and model evaluation
 - **generative_models/**: GANs, VAEs, diffusion models, and other generative approaches
 - **rag_llm/**: Retrieval-Augmented Generation and Large Language Model applications
 
-## 🎯 Notebook Philosophy
+## Notebook Philosophy
 
 Each notebook follows these principles:
 1. **Theory First**: Explain the concept with mathematical foundations where applicable
@@ -42,7 +42,7 @@ Each notebook follows these principles:
 4. **Real Examples**: Use practical examples and datasets
 5. **Progressive Complexity**: Start simple, build to advanced topics
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -68,7 +68,7 @@ jupyter lab
 - Open any `.ipynb` file to start the interactive notebook experience
 - Run cells individually or all at once
 
-## 📝 Best Practices
+## Best Practices cheat sheet
 
 ### Notebook Structure
 - Start with a title and overview
@@ -89,13 +89,13 @@ jupyter lab
 - Reference sources and further reading materials
 - Document assumptions and limitations
 
-## 🔗 Additional Resources
+## Helpful links
 
 - [Jupyter Documentation](https://jupyter.org/documentation)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [LaTeX Math Symbols](https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols)
 
-## 💡 Tips
+## Tips
 
 - Use `%matplotlib inline` for inline plots
 - Use `%%time` to measure cell execution time

@@ -2,33 +2,19 @@
 
 > **Note**: This README was generated with GitHub Copilot. The guidelines below represent goals and standards to aspire to for projects in this directory.
 
-Full-featured applications and projects that demonstrate practical implementation of learned concepts.
+Full-featured applications and projects that demonstrate practical implementation of learned concepts. The goal is for these to be runnable at minimum, with hopefully some tests.
 
-## 📚 Overview
+## Overview
 
 This directory is for complete, working applications that integrate multiple technologies and concepts. Unlike the experimental sandbox, these projects aim to be functional, well-documented, and closer to production quality.
 
-## 🚀 Current Projects
+## Current Projects
 
-### 💰 [budget-app/](budget-app/)
-A personal budget management application built with modern web technologies.
+TBD, mainly reorganizing things right now
 
-**Technologies**: React, TypeScript, Vite  
-**Key Concepts**: State management, React hooks, Context API, reducers  
-**Purpose**: Learn modern React patterns and financial application development
+## Project Standards
 
-#### Features
-- Budget tracking and expense management
-- Custom hooks for state management
-- Type-safe development with TypeScript
-- Component-based architecture
-- Testing with Jest
-
----
-
-## 🎯 Project Standards
-
-All projects in this directory should follow these guidelines:
+This is a sort of how to guide/checklist for me when starting up one of these projects:
 
 ### Documentation
 - **README.md**: Project overview, setup instructions, and usage guide
@@ -56,15 +42,6 @@ project-name/
 └── public/             # Static assets
 ```
 
-## 🛠️ Getting Started with Projects
-
-### General Setup
-1. Navigate to the specific project directory
-2. Read the project's README.md for specific instructions
-3. Install dependencies (usually `npm install` or `yarn install`)
-4. Run the development server
-5. Explore the code and make modifications
-
 ### Common Commands
 ```bash
 # Install dependencies
@@ -83,54 +60,7 @@ npm run build
 npm run lint
 ```
 
-## 💡 Learning Objectives
-
-Each project is designed to teach specific concepts:
-
-### Technical Skills
-- Modern framework usage (React, Vue, etc.)
-- State management patterns
-- API integration
-- Testing strategies
-- Build tools and bundlers
-
-### Software Engineering
-- Project structure and organization
-- Dependency management
-- Configuration management
-- Version control best practices
-- Documentation standards
-
-### Best Practices
-- Clean code principles
-- SOLID principles
-- Design patterns
-- Performance optimization
-- Accessibility standards
-
-## 🔄 Project Lifecycle
-
-### 1. Planning
-- Define project goals and learning objectives
-- Sketch out architecture and tech stack
-- Create initial project structure
-
-### 2. Development
-- Implement features incrementally
-- Write tests alongside code
-- Document as you build
-
-### 3. Refinement
-- Refactor for clarity and performance
-- Improve error handling
-- Enhance documentation
-
-### 4. Review
-- Code review and cleanup
-- Performance testing
-- Documentation review
-
-## 📝 Adding New Projects
+## Adding New Projects
 
 When creating a new project:
 1. Create a dedicated directory with a descriptive name
@@ -139,20 +69,3 @@ When creating a new project:
 4. Set up testing infrastructure
 5. Document learning goals and key concepts
 6. Update this README with project information
-
-## 🔗 Resources
-
-- [React Documentation](https://react.dev/)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Jest Testing Framework](https://jestjs.io/)
-- [Vite Build Tool](https://vitejs.dev/)
-
-## 🎓 From Notebooks to Projects
-
-Projects often start as concepts explored in notebooks:
-1. Learn the theory in a notebook
-2. Experiment with basic implementations
-3. Build a proof-of-concept in sandbox
-4. Create a full-featured project here
-
-This progression ensures deep understanding before building complete applications.
